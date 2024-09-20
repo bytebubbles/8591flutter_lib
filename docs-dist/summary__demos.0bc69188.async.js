@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_8591_flutter=self.webpackChunk_8591_flutter||[]).push([[815],{75184:function(r,n,t){t.r(n);var a=t(67294),u=t(85893),l=function(_){return(0,u.jsx)("h4",{children:_.title})};n.default=l},97772:function(r,n,t){t.r(n);var a=t(67294),u=t(85893),l=function(_){return(0,u.jsx)("h4",{children:_.title})};n.default=l}}]);
