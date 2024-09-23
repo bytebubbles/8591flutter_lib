@@ -2,6 +2,8 @@ import { defineConfig } from 'dumi';
 
 export default defineConfig({
   outputPath: 'docs-build',
+  base: '/8591flutter_lib/',
+  publicPath: '/8591flutter_lib/',
   themeConfig: {
     name: '8591_flutter',
     hd: {
